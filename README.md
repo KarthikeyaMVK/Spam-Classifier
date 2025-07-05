@@ -70,16 +70,4 @@ The notebook includes:
 - Accuracy and F1-score metrics
 - Confusion matrix visualization
 - Cross-validation support
-
-## 📌 Notes
-
-- Make sure your environment supports Jupyter Notebooks.
-- If GPU support is needed (e.g., for transformer-based models), ensure CUDA is properly set up.
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+- ART toolkit based Robustness check on the SVM model used
